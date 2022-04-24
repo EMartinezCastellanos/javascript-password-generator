@@ -70,7 +70,7 @@ function generatePassword(a, b, c, d, e) {
   //3 Generate password according to selection 
 
   //4 Display password to the page
-  // return "Generated password";
+
   return finLength;
 
 
